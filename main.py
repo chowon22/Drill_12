@@ -30,6 +30,7 @@ def reset_world():
     grass = [Grass() for _ in range(2)]
     game_world.add_object(grass[0])
     game_world.add_object(grass[1],2)
+    grass[1].
 
 
 
